@@ -2,6 +2,8 @@
 
 Here is a quick tour to show how **RedBeanPHP** as a very old **ORM** PHP-based library can give you a **non-SQL** experience in developing.
 
+**This automatically generates the database, tables and columns... on-the-fly. It infers relations based on naming conventions.**
+
 ## What is RedBeanPHP?
 
 > Save tens of thousands of dollars* worth of development time by boosting your productivity with the most powerful, zero config object relational mapper the industry has ever known.
