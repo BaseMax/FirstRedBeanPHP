@@ -113,3 +113,7 @@ Currently, RedBeanPHP supports: MySQL, MariaDB, SQLite, PostgreSQL, CUBRID and F
 **=requires patch
 ***=experimental
 ```
+
+## TODO
+
+Join and relations
