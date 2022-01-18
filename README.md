@@ -22,7 +22,7 @@ Results:
 | Est. Total Cost | 150k | 7k | 70k |
 | Lifetime | 1-2 years | Still running (4+ years) | Unknown |
 
-#### Notes:
+### Notes:
 
 Reasons from lead developers for not choosing **RedBeanPHP**:
 
