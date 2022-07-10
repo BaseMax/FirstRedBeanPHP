@@ -104,7 +104,7 @@ Write less, do more!
 
 ### Compatible
 
-RedBeanPHP strives to support all ALL Free, Open Source databases.
+RedBeanPHP strives to support ALL Free, Open Source databases.
 
 Currently, RedBeanPHP supports: MySQL, MariaDB, SQLite, PostgreSQL, CUBRID and Firebird/Interbase***. RedBeanPHP supports PHP version HHVM, 5.2*, 5.3.0-5.3.2**, 5.3.3, 5.4, 5.5, 5.6, 6.0*, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0 and 8.1. We take backward compatibility very serious! RedBeanPHP has a track record of 16 years of PHP language level compatibility without a single breaking change! You can trust RedBeanPHP.
 
